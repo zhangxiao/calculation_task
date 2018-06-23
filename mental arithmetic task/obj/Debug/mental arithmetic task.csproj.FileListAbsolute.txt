@@ -1,0 +1,113 @@
+F:\code\C#\game\calculation_game\mental arithmetic task\mental arithmetic task\bin\Debug\mental arithmetic task.exe.config
+F:\code\C#\game\calculation_game\mental arithmetic task\mental arithmetic task\bin\Debug\mental arithmetic task.exe
+F:\code\C#\game\calculation_game\mental arithmetic task\mental arithmetic task\bin\Debug\mental arithmetic task.pdb
+F:\code\C#\game\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental arithmetic task.csprojResolveAssemblyReference.cache
+F:\code\C#\game\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental_arithmetic_task.Form1.resources
+F:\code\C#\game\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental_arithmetic_task.Properties.Resources.resources
+F:\code\C#\game\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.GenerateResource.Cache
+F:\code\C#\game\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental arithmetic task.exe
+F:\code\C#\game\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental arithmetic task.pdb
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task\mental arithmetic task\bin\Debug\mental arithmetic task.exe.config
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental arithmetic task.exe
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental arithmetic task.pdb
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task\mental arithmetic task\bin\Debug\mental arithmetic task.exe
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task\mental arithmetic task\bin\Debug\mental arithmetic task.pdb
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental arithmetic task.csprojResolveAssemblyReference.cache
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental_arithmetic_task.Form1.resources
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental_arithmetic_task.Properties.Resources.resources
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.GenerateResource.Cache
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task_mxl\mental arithmetic task\bin\Debug\mental arithmetic task.exe.config
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task_mxl\mental arithmetic task\obj\Debug\mental arithmetic task.exe
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task_mxl\mental arithmetic task\obj\Debug\mental arithmetic task.pdb
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task_mxl\mental arithmetic task\bin\Debug\mental arithmetic task.exe
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task_mxl\mental arithmetic task\bin\Debug\mental arithmetic task.pdb
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task_mxl\mental arithmetic task\obj\Debug\mental arithmetic task.csprojResolveAssemblyReference.cache
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task_mxl\mental arithmetic task\obj\Debug\mental_arithmetic_task.Form1.resources
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task_mxl\mental arithmetic task\obj\Debug\mental_arithmetic_task.Properties.Resources.resources
+C:\Users\39491\Desktop\实验\calculation_game\mental arithmetic task_mxl\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.GenerateResource.Cache
+C:\Users\Steven Xiao\Desktop\产生压力\expeiment_task\mental arithmetic task_0828\mental arithmetic task\bin\Debug\mental arithmetic task.exe.config
+C:\Users\Steven Xiao\Desktop\产生压力\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.exe
+C:\Users\Steven Xiao\Desktop\产生压力\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.pdb
+C:\Users\Steven Xiao\Desktop\产生压力\expeiment_task\mental arithmetic task_0828\mental arithmetic task\bin\Debug\mental arithmetic task.exe
+C:\Users\Steven Xiao\Desktop\产生压力\expeiment_task\mental arithmetic task_0828\mental arithmetic task\bin\Debug\mental arithmetic task.pdb
+C:\Users\Steven Xiao\Desktop\产生压力\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.csprojResolveAssemblyReference.cache
+C:\Users\Steven Xiao\Desktop\产生压力\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental_arithmetic_task.Form1.resources
+C:\Users\Steven Xiao\Desktop\产生压力\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental_arithmetic_task.Properties.Resources.resources
+C:\Users\Steven Xiao\Desktop\产生压力\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.GenerateResource.Cache
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\bin\Debug\mental arithmetic task.exe.config
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.exe
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.pdb
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\bin\Debug\mental arithmetic task.exe
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\bin\Debug\mental arithmetic task.pdb
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\bin\Debug\Interop.WMPLib.dll
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.csprojResolveAssemblyReference.cache
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\Interop.WMPLib.dll
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.ResolveComReference.cache
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental_arithmetic_task.Form1.resources
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental_arithmetic_task.Properties.Resources.resources
+C:\Users\DSL\Desktop\expeiment_task\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.GenerateResource.Cache
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\bin\Debug\mental arithmetic task.exe.config
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\obj\Debug\Interop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.ResolveComReference.cache
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.exe
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.pdb
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\bin\Debug\mental arithmetic task.exe
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\bin\Debug\mental arithmetic task.pdb
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\bin\Debug\Interop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental_arithmetic_task.Form1.resources
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental_arithmetic_task.Properties.Resources.resources
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.GenerateResource.Cache
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828\mental arithmetic task\obj\Debug\mental arithmetic task.csprojResolveAssemblyReference.cache
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828 - 副本 (2)\mental arithmetic task\bin\Debug\mental arithmetic task.exe.config
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828 - 副本 (2)\mental arithmetic task\obj\Debug\Interop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828 - 副本 (2)\mental arithmetic task\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828 - 副本 (2)\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.ResolveComReference.cache
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828 - 副本 (2)\mental arithmetic task\obj\Debug\mental arithmetic task.exe
+C:\Users\Steven Xiao\Desktop\mental arithmetic task_0828 - 副本 (2)\mental arithmetic task\obj\Debug\mental arithmetic task.pdb
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\bin\Debug\mental arithmetic task.exe.config
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\obj\Debug\Interop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.ResolveComReference.cache
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\obj\Debug\mental arithmetic task.exe
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\obj\Debug\mental arithmetic task.pdb
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\bin\Debug\mental arithmetic task.exe
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\bin\Debug\mental arithmetic task.pdb
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\bin\Debug\Interop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\obj\Debug\mental arithmetic task.csprojResolveAssemblyReference.cache
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\obj\Debug\mental_arithmetic_task.Form1.resources
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\obj\Debug\mental_arithmetic_task.Properties.Resources.resources
+C:\Users\Steven Xiao\Desktop\心算任务测试\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.GenerateResource.Cache
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\bin\Debug\mental arithmetic task.exe.config
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\Interop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.ResolveComReference.cache
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental arithmetic task.exe
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental arithmetic task.pdb
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\bin\Debug\mental arithmetic task.exe
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\bin\Debug\mental arithmetic task.pdb
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\bin\Debug\Interop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental arithmetic task.csprojResolveAssemblyReference.cache
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental_arithmetic_task.Form1.resources
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental_arithmetic_task.Properties.Resources.resources
+C:\Users\Steven Xiao\Desktop\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.GenerateResource.Cache
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\bin\Debug\mental arithmetic task.exe.config
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\bin\Debug\mental arithmetic task.exe
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\bin\Debug\mental arithmetic task.pdb
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\bin\Debug\Interop.WMPLib.dll
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\bin\Debug\AxInterop.WMPLib.dll
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental arithmetic task.csprojResolveAssemblyReference.cache
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\Interop.WMPLib.dll
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\AxInterop.WMPLib.dll
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.ResolveComReference.cache
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental_arithmetic_task.Form1.resources
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental_arithmetic_task.Properties.Resources.resources
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.GenerateResource.Cache
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental arithmetic task.csproj.CoreCompileInputs.cache
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental arithmetic task.exe
+F:\work\实验\2018手环\心算任务测试软件（最终）\mental arithmetic task\obj\Debug\mental arithmetic task.pdb

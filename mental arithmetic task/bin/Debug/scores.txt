@@ -1,0 +1,359 @@
+ddd -5 4000
+ttt 5 3993
+ddd 15 3965
+201707081628565608
+name:  score: -6 Minued 4000ringht:0wrong:2
+restbegin:201805271023528402
+gamebeging:201805271028529860
+name:  score: 5 Minued 3993ringht:1wrong:0
+restbegin:201805281445151287
+gamebeging:201805281445161909
+name:  score: -13 Minued 3974ringht:4wrong:11
+restbegin:201805281652370272
+gamebeging:201805281652380365
+name:  score: 5 Minued 3993ringht:1wrong:0
+restbegin:201805281653101374
+gamebeging:201805281653111461
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805281653341248
+gamebeging:201805281653351277
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805281653483953
+gamebeging:201805281653493953
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805281657247431
+gamebeging:201805281657257633
+name:  score: 5 Minued 3994ringht:1wrong:0
+restbegin:201805282052112911
+gamebeging:201805282052017672
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805282142483082
+gamebeging:201805282142493369
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805282143020122
+gamebeging:201805282143030198
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805282143183073
+gamebeging:201805282143193238
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805282143321656
+gamebeging:201805282143331767
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805282143443620
+gamebeging:201805282143453633
+name:  score: 5 Minued 3994ringht:1wrong:0
+restbegin:201805282144452374
+gamebeging:201805282144462475
+name:  score: 10 Minued 3985ringht:2wrong:0
+restbegin:201805282145125737
+gamebeging:201805282145135876
+name:  score: 5 Minued 3983ringht:1wrong:0
+restbegin:201805282146113736
+gamebeging:201805282146123894
+name:  score: 10 Minued 3996ringht:2wrong:0
+restbegin:201805282146577328
+gamebeging:201805282146587487
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805292132426686
+gamebeging:201805292132436669
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805292147379643
+gamebeging:201805292147389661
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301411455891
+gamebeging:201805301411465858
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301422228155
+gamebeging:201805301422238220
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301434431251
+gamebeging:201805301434441306
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301435267519
+gamebeging:201805301435277637
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301446356840
+gamebeging:201805301446366879
+name:  score: 5 Minued 3997ringht:1wrong:0
+restbegin:201805301447020733
+gamebeging:201805301447030790
+name:  score: 5 Minued 3998ringht:1wrong:0
+restbegin:201805301447346653
+gamebeging:201805301447356661
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301448082724
+gamebeging:201805301448092716
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301521171852
+gamebeging:201805301521181925
+name:  score: 10 Minued 3994ringht:2wrong:0
+restbegin:201805301523125949
+gamebeging:201805301523136010
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301525276527
+gamebeging:201805301525276948
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301529300211
+gamebeging:201805301529310365
+name:  score: 1 Minued 3995ringht:2wrong:3
+restbegin:201805301530077147
+gamebeging:201805301530087148
+name:  score: 10 Minued 3996ringht:2wrong:0
+restbegin:201805301530477385
+gamebeging:201805301530487484
+name:  score: 12 Minued 3991ringht:3wrong:1
+restbegin:201805301531192828
+gamebeging:201805301531202956
+name:  score: 4 Minued 3996ringht:2wrong:2
+restbegin:201805301532295332
+gamebeging:201805301532305443
+name:  score: 7 Minued 3995ringht:2wrong:1
+restbegin:201805301539120741
+gamebeging:201805301538308396
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301539244326
+gamebeging:201805301539254337
+name:  score: 10 Minued 3996ringht:2wrong:0
+restbegin:201805301540471623
+gamebeging:201805301540481660
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301542038651
+gamebeging:201805301541259807
+name:  score: -3 Minued 4000ringht:0wrong:1
+restbegin:201805301542038651
+gamebeging:201805301542048724
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301543030589
+gamebeging:201805301543040565
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301544168391
+gamebeging:201805301544178360
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301545066419
+gamebeging:201805301545076472
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301545471417
+gamebeging:201805301545481472
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301546134726
+gamebeging:201805301546144778
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301546442336
+gamebeging:201805301546452463
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301548109005
+gamebeging:201805301548118952
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301550391343
+gamebeging:201805301550401328
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805301552034336
+gamebeging:201805301552044325
+name:  score: -4 Minued 3998ringht:1wrong:3
+restbegin:201805301553157373
+gamebeging:201805301553167506
+name:  score: 5 Minued 3999ringht:1wrong:0
+restbegin:201805301553490571
+gamebeging:201805301553500612
+name:  score: 5 Minued 3999ringht:1wrong:0
+restbegin:201805301555109472
+gamebeging:201805301554517884
+name:  score: 5 Minued 3997ringht:1wrong:0
+restbegin:201805301555190190
+gamebeging:201805301555200279
+name:  score: 10 Minued 3997ringht:2wrong:0
+restbegin:201805301555450159
+gamebeging:201805301555460252
+name:  score: 5 Minued 3997ringht:1wrong:0
+restbegin:201805311027394587
+gamebeging:201805311027404848
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805311038095348
+gamebeging:201805311038196894
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805311119557931
+gamebeging:201805311120058167
+name:  score: -3 Minued 4000ringht:0wrong:1
+restbegin:201805311120332513
+gamebeging:201805311120397486
+name:  score: 7 Minued 3996ringht:2wrong:1
+restbegin:201805311413552782
+gamebeging:201805311414054148
+name:  score: 10 Minued 3996ringht:2wrong:0
+restbegin:201805311415387211
+gamebeging:201805311415488567
+name:  score: 15 Minued 3992ringht:3wrong:0
+restbegin:201805311419213689
+gamebeging:201805311419314715
+name:  score: 2 Minued 3999ringht:1wrong:1
+restbegin:201805311419561029
+gamebeging:201805311420061714
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805311421238839
+gamebeging:201805311421339865
+name:  score: 15 Minued 3997ringht:3wrong:0
+restbegin:201805311434407695
+gamebeging:201805311434508640
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805311445179959
+gamebeging:201805311445322467
+name:  score: 10 Minued 3993ringht:2wrong:0
+restbegin:201805311446140101
+gamebeging:201805311445548250
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:
+gamebeging:201805311507340963
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805311726491952
+gamebeging:201805311727017719
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805311726491952
+gamebeging:201805311727379860
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805311729519497
+gamebeging:201805311730029863
+name:  score: 12 Minued 3992ringht:3wrong:1
+restbegin:201805311731388708
+gamebeging:201805311732026141
+name:  score: 12 Minued 3993ringht:3wrong:1
+restbegin:201805311734255793
+gamebeging:201805311734408102
+name:  score: 15 Minued 3996ringht:3wrong:0
+restbegin:201805311859537416
+gamebeging:201805311900107706
+name:  score: 15 Minued 3995ringht:3wrong:0
+restbegin:201805312029061408
+gamebeging:201805312029279260
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805312031475170
+gamebeging:201805312031588657
+name:  score: 5 Minued 3998ringht:1wrong:0
+restbegin:201805312041068370
+gamebeging:201805312041181336
+name:  score: 10 Minued 3996ringht:2wrong:0
+restbegin:201805312043516284
+gamebeging:201805312044028781
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805312045261698
+gamebeging:201805312045370225
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805312045261698
+gamebeging:201805312046343157
+name:  score: 2 Minued 3998ringht:1wrong:1
+restbegin:201805312045261698
+gamebeging:201805312047196113
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805312052037686
+gamebeging:201805312052420768
+name:  score: 15 Minued 3991ringht:3wrong:0
+restbegin:201805312124060805
+gamebeging:201805312124285878
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201805312127015666
+gamebeging:201805312127150993
+name:  score: -3 Minued 4000ringht:0wrong:1
+restbegin:201805312130062101
+gamebeging:201805312130319346
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201806010854409605
+gamebeging:201806010854553724
+name:  score: 10 Minued 3994ringht:2wrong:0
+restbegin:201806010856148069
+gamebeging:201806010856311188
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201806010903438346
+gamebeging:201806010904153874
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201806010909013808
+gamebeging:201806010909095692
+name:  score: 15 Minued 3990ringht:3wrong:0
+restbegin:201806010913040006
+gamebeging:201806010913127391
+name:  score: 15 Minued 3992ringht:3wrong:0
+restbegin:201806011015472228
+gamebeging:201806011016016175
+name:  score: 5 Minued 3998ringht:1wrong:0
+restbegin:201806011018128951
+gamebeging:201806011018199657
+name:  score: 10 Minued 3993ringht:2wrong:0
+restbegin:201806011018128951
+gamebeging:201806011018554077
+name:  score: 5 Minued 3992ringht:1wrong:0
+restbegin:201806011024123166
+gamebeging:201806011024541000
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201806011027270759
+gamebeging:201806011027353024
+name:  score: 5 Minued 3999ringht:1wrong:0
+restbegin:201806011050575676
+gamebeging:201806011051002713
+name:  score: 5 Minued 3997ringht:1wrong:0
+restbegin:201806011055402039
+gamebeging:201806011055450396
+name:  score: 20 Minued 3988ringht:4wrong:0
+restbegin:201806011055402039
+gamebeging:201806011056179655
+name:  score: 20 Minued 3972ringht:4wrong:0
+restbegin:201806011104020008
+gamebeging:201806011104057787
+name:  score: 15 Minued 3994ringht:3wrong:0
+restbegin:201806011115559563
+gamebeging:201806011116025612
+name:  score: -3 Minued 4000ringht:0wrong:1
+restbegin:201806011117185211
+gamebeging:201806011117247693
+name:  score: 10 Minued 3997ringht:2wrong:0
+restbegin:201806011118118782
+gamebeging:201806011118153852
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201806011355284084
+gamebeging:201806011355349780
+name:  score: 7 Minued 3994ringht:2wrong:1
+restbegin:201806011359464555
+gamebeging:201806011359584472
+name:  score: 15 Minued 3993ringht:3wrong:0
+restbegin:201806011359464555
+gamebeging:201806011400398896
+name:  score: 15 Minued 3977ringht:3wrong:0
+restbegin:201806011359464555
+gamebeging:201806011401155110
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201806011410030001
+gamebeging:201806011410234112
+name:  score: 20 Minued 3988ringht:4wrong:0
+restbegin:201806011429242770
+gamebeging:201806011429368540
+name:  score: 15 Minued 3993ringht:3wrong:0
+restbegin:201806011434465959
+gamebeging:201806011435001317
+name:  score: 2 Minued 3998ringht:1wrong:1
+restbegin:201806011437149650
+gamebeging:201806011437257116
+name:  score: 5 Minued 3999ringht:1wrong:0
+restbegin:201806011455449153
+gamebeging:201806011455576636
+name:  score: 20 Minued 3990ringht:4wrong:0
+restbegin:201806190824144321
+gamebeging:201806190824340981
+name:  score: 20 Minued 3992ringht:4wrong:0
+restbegin:201806190858094370
+gamebeging:201806190858240102
+name:  score: 25 Minued 3983ringht:5wrong:0
+restbegin:201806190858094370
+gamebeging:201806190901237722
+name:  score: 15 Minued 3980ringht:3wrong:0
+restbegin:201806190904598740
+gamebeging:201806190905129164
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201806190908070660
+gamebeging:201806190908217264
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201806190909158999
+gamebeging:201806190909292916
+name:  score: 0 Minued 4000ringht:0wrong:0
+restbegin:201806190909158999
+gamebeging:201806190909561293
+name:  score: 10 Minued 3987ringht:2wrong:0
+restbegin:201806190916404079
+gamebeging:201806190917245758
+name:  score: 27 Minued 3992ringht:6wrong:1

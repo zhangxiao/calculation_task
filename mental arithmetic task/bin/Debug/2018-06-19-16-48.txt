@@ -1,0 +1,3 @@
+restbegin:201806191646511378
+gamebeging:201806191648148295
+name: 肖顺 score: 7   Minued :3967  ringht:2  wrong:1
